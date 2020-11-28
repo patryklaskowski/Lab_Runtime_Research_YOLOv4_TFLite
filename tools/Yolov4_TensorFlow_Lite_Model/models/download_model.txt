@@ -1,0 +1,4 @@
+Download YOLOv4 TFLite model with default COCO dataset weights here:
+https://drive.google.com/file/d/1ARWYou1LfNq9aIBB5r4pDZCE6S3Lcni6/view?usp=sharing
+
+Patryk Laskowski 
