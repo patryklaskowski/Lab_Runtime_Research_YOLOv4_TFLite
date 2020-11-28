@@ -8,13 +8,6 @@ def video_stream_with_trackbars():
     from Yolov4_TensorFlow_Lite_Model.TensorFlowLiteModel import Yolov4TensorFlowLiteModel
     from random import uniform
 
-    # if model_filename or names_filename:
-    #     assert model_filename, 'If names_filename has been provided model_filename have to be as well.'
-    #     assert names_filename, 'If model_filename has been provided names_filename have to be as well.'
-    #     model_path = f'./Yolov4_TensorFlow_Lite_Model/checkpoints/{model_filename}'
-    #     names_path = f'./Yolov4_TensorFlow_Lite_Model/models/{names_filename}'
-    #     print('Custom settings')
-    # else:
     model_path = './Yolov4_TensorFlow_Lite_Model/models/yolov4-coco-416.tflite'
     names_path = './Yolov4_TensorFlow_Lite_Model/labels/coco.names'
 
